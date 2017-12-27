@@ -1,0 +1,16 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: hxyHelloWorld@163.com
+    password: yong1014
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+#spring.mail.host=smtp.qiye.163.com #邮箱服务器地址
+#spring.mail.username=hxyHelloWorld@163.com #用户名
+#spring.mail.password=yong1582471014    #密码
+#spring.mail.default-encoding=UTF-8
