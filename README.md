@@ -23,13 +23,22 @@
 >spring:
 >  mail:
 >   host: smtp.163.com
+
 >   username: hxyHelloWorld@163.com
+
 >   password: *****
+
 >   properties:
+
 >     mail:
+
 >      smtp:
+
 >         auth: true
+
 >         starttls:
+
 >           enable: true
+
 >           required: true
      
