@@ -42,3 +42,4 @@
 
 >           required: true
      
+#如果出现505 或者500错误在自己的邮箱中设置“开启SMTP服务,password使用开启SMTP服务后的密码
